@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../DataAccessLayer/DataAccessLayer.csproj" Id="8db52788-b789-4187-96aa-b28ab20dc85d" />
+  <Project Path="../EntityLayer/EntityLayer.csproj" Id="b3f6ed40-665a-4f22-a9d8-9d6c0ac7a4c7" />
+  <Project Path="../LogicLayer/LogicLayer.csproj" Id="c6ead3b5-5dd5-4755-9925-173b97c996b2" />
+  <Project Path="NKatmanliMimari.csproj" Id="62c72965-0c92-48b2-a64c-d99d0c566f77" />
+</Solution>
